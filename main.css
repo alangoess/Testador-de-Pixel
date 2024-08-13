@@ -1,0 +1,146 @@
+#res{
+            
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(128, 169, 204);
+   
+   
+
+}
+
+#cores{
+    display: flex;
+    justify-content:  center;
+    margin-top: 180px;
+    
+}
+
+.btn-red{
+    background-color: rgb(232, 80, 80);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-red:hover{
+    background-color: rgba(232, 80, 80, 0.792);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-blue{
+    background-color: rgb(46, 46, 230);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-blue:hover{
+    background-color: rgba(52, 52, 228, 0.863);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-green{
+    background-color: rgb(21, 168, 21);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-green:hover{
+    background-color: rgba(21, 168, 21, 0.842);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-pink{
+    background-color: rgb(195, 105, 120);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-pink:hover{
+    background-color: rgba(195, 105, 120, 0.861);
+    border: none;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+}
+
+.btn-white{
+    
+    background-color: rgb(255, 255, 255);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+
+}
+
+.btn-white:hover{
+    
+    background-color: rgb(219, 218, 218);
+    border: white solid 1px;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    margin: 5px;
+
+}
+
+.btn-black{
+    
+    background-color: rgb(42, 41, 41);
+    color: white;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    border: white solid 1px;
+    margin: 5px;
+}
+
+.btn-black:hover{
+    
+    background-color: rgb(58, 57, 57);
+    color: white;
+    width: 50px;
+    height: 50px ;
+    border-radius: 8px;
+    border: white solid 1px;
+    margin: 5px;
+}
+
+#nextEback{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 200px;
+}
+
+.next, .back{
+    width: 40px;
+    height: 40px;
+    border-radius: 80px;
+}
